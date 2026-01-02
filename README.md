@@ -1,4 +1,4 @@
-[⬅️ Volver a "PLC/HMI/SCADA"](https://github.com/SantiagoBaeza/PLC-HMI-SCADA/tree/main)
+[⬅️ Volver a "PLC/HMI/SCADA"](https://github.com/SantiagoBaeza/Recopilacion-proyectos-PLC-HMI-SCADA/tree/main?tab=readme-ov-file)
 
 # Recopilación de proyectos SCADA
 
